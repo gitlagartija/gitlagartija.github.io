@@ -1,0 +1,6 @@
+document.write("<div id=\"whitecontainer\">")
+document.write("<b class=\"rtop\"><b class=\"r1\"></b> <b class=\"r2\"></b> <b class=\"r3\"></b> <b class=\"r4\"></b></b>")
+document.write("<p class=\"footer\">Site Design by c.v.larson at gmail dot com</p>")
+document.write("<b class=\"rbottom\"><b class=\"r4\"></b> <b class=\"r3\"></b> <b css=\"r2\"></b> <b class=\"r1\"></b></b>")
+document.write("</div>")
+document.write("<!--End White Box #2 -->")

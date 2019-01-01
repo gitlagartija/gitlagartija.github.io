@@ -1,0 +1,88 @@
+/* HTML Element styles */
+body {
+	background: #CCCCCC;
+}
+p {
+	margin: 10px 20px 10px 20px;
+	font-family: arial;
+	font-size: 13px;
+}
+h1 {
+	margin-left: 30px;
+	font-family: calibri;
+	color: #404040;
+	font-size: 20px;
+}
+h2 {
+	margin-left: 15px;
+	font-family: calibri;
+	color: #6E6E6E;
+}
+h3 {
+	margin-left: 15px;
+	font-family: calibri;
+	color: #6E6E6E;
+}
+dl {
+	margin: 10px 20px 10px 45px;
+	font-family: arial;
+	font-size: 13px;
+	line-height: 20px;
+}
+
+dt {
+	font-weight: bold;
+}
+/* Header and Tab Style */
+
+#head {
+	height: 50px;
+	margin: 0 0 0 144px;
+	
+}
+
+#tabs {
+	float:left;
+	background-color: #CCCCCC;
+	margin-left: 1px;
+}
+
+.tabs {list-style:none; padding:15px 0 11px 0; margin:30px 1px 30px 0; width:144px;}
+.tabs li {display:block; margin:0 0 4px 35px;}
+.tabs li a {display:block; width:134px; height:26px; text-decoration:none; background:url(vtab.png) left top; font-size:18px; text-decoration:none; color:#6E6E6E; font-family:calibri; line-height:24px; text-indent:15px;}
+.tabs li a:hover {background:url(vtab.png) left center; color:#47A3FF;}
+.tabs li a.selected, .tabs li a.selected:hover {background:url(vtab.png) left bottom; color:#47A3FF; cursor:default; font-weight:bold;}
+
+
+
+/*Area below Nav & White Box for content*/
+#content {
+	margin: auto;
+	width: 80%;
+}
+
+#whitecontainer {
+	background: #FFFFFF;
+	margin-left: 170px;
+}
+
+#colorcontainer {
+	margin: 20px;
+}
+
+/* Footer Style */
+.footer {
+	font-family: arial;
+	color: #888888;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.sin {
+    background-image: url('sin.png');
+    float: right;
+    margin-right: 8px;
+    height: 66px;
+    width: 123px;
+}
